@@ -7,7 +7,7 @@
 
 ###Instalação
 
-npm install
+`npm install`
 
 ###Rodar
 
